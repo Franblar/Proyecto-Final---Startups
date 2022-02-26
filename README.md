@@ -44,16 +44,16 @@ https://www.kaggle.com/khaiid/startups-by-valuation
 
 ### Conclusiones generales
 
-EEUU lidera ampliamente la tabla en cantidad de Startups con 114, seguido por India con 27 y China con 26. A su vez, las empresas estadounidenses lideran en la valuación total de las Startups por país.
+EEUU lidera ampliamente la tabla en cantidad de Startups con 114, seguido por India con 27 y China con 26.
 
-Cuando vemos aquellas empresas mejor valuadas, encontramos que la empresa China ByteDance lidera la lista con una valuación total de 140 billones de USD, superando a aquella mejor valuada de origen Estadounidense, SpaceX.
+Las empresas estadounidenses lideran en la valuación total de las Startups por país. China se coloca en el segundo puesto, superando por más del doble a la India, ubicada en el tercer escalón.
 
-La variedad en la composición de industrias de la valuación total de las empresas de EEUU puede deberse a un entorno sumamente favorable para el desarrollo y subsistencia de este tipo de empresas.
+La empresa China ByteDance lidera la lista con una valuación total de 140 billones de USD, superando a aquella mejor valuada de origen Estadounidense, SpaceX.
 
-El sector Fintech es el que lidera en cuanto a empresas mejor valuadas y puede significar que haya mayor cantidad de empresas en este rubro, o que haya empresas mejor valuadas o una combinación de ambos escenarios.
+El sector Fintech es el que lidera las empresas mejor valuadas, seguido muy de cerca por el sector Financial Services, Internet y Software.
 
-La empresa mejor valuada es China y corresponde al 23% de la valuación total de las 10 empresas mejor valuadas, seguida por una empresa Estadounidense del rubro Aerospace, SpaceX.
+La empresa mejor valuada es China y pertenece al rubro Internet. Esta corresponde al 23% de la valuación total de las 10 empresas mejor valuadas, seguida por una empresa Estadounidense del rubro Aerospace, SpaceX.
 
-El rubro Fintech lidera la cantidad de Startups al año 2021
+El rubro Software lidera la cantidad de Startups al año 2021.
 
-  
+----------
